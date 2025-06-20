@@ -28,11 +28,6 @@
 <br>
 
 # ⚙️ Projects:
-<h3>🔹 <a href="https://github.com/your-repo-link">Fleza - AI-Powered Chatbot</a> 🤖</h3>
-<ul>
-  <li><b>Tech:</b> Flutter, Firebase, NLP, Speech-to-Text</li>
-  <li>AI chatbot with <b>text & voice input, saved chats, and customizable behavior.</b></li>
-</ul>
 
 <h3>🔹 <a href="https://github.com/your-repo-link">NextElect - Blockchain Voting System</a> 🗳️</h3>
 <ul>
