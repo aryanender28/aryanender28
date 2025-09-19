@@ -29,19 +29,19 @@
 
 # ⚙️ Projects:
 
-<h3>🔹 <a href="https://github.com/your-repo-link">NextElect - Blockchain Voting System</a> 🗳️</h3>
+<h3>🔹 <a href="https://github.com/your-repo-link">NextElect - Blockchain Voting System</a> </h3>
 <ul>
   <li><b>Tech:</b> Flutter, Solidity, Ganache, Truffle</li>
   <li>A secure <b>Aadhar-based blockchain voting app</b> ensuring transparency.</li>
 </ul>
 
-<h3>🔹 <a href="https://github.com/your-repo-link">FlameFlick - Android Video Streaming App</a> 📽️</h3>
+<h3>🔹 <a href="https://github.com/your-repo-link">FlameFlick - Android Video Streaming App</a> </h3>
 <ul>
   <li><b>Tech:</b> Android (Java), Firebase</li>
   <li>A full-featured <b>video streaming app</b> with admin control for uploads and real-time updates.</li>
 </ul>
 
-<h3>🔹 <a href="https://github.com/your-repo-link">ReeLabs Medical E-Commerce App</a> 💊</h3>
+<h3>🔹 <a href="https://github.com/your-repo-link">ReeLabs Medical E-Commerce App</a> </h3>
 <ul>
   <li><b>Tech:</b> Flutter, Firebase</li>
   <li>A <b>medication management app</b> with reminders, tracking, and notifications for better healthcare.</li>
