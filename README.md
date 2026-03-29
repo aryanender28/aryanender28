@@ -1,4 +1,4 @@
-![MasterHead](https://images.prismic.io/createthrive/97c66635-ed56-4329-9e0e-b46f9bdf1639_Blog%20landscape.png?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max&q=50&w=4492&h=1318)
+
 <h1 align="center">Hey there, I'm Aryan Dikshit</h1>
 <h3 align="center">💻 Software Developer | 2× Hackathon Winner | Building Apps | Problem Solver</h3>
 <br>
